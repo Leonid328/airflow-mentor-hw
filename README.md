@@ -18,7 +18,7 @@ Screenshots: [`screenshots/`](screenshots/)
 | [03-training-pipeline.png](screenshots/03-training-pipeline.png) | Training graph green, HITL done, asset events |
 | [04-assets.png](screenshots/04-assets.png) | `telco_churn_champion_model` |
 | [05-mlflow.png](screenshots/05-mlflow.png) | MLflow experiment `telco-churn-airflow` |
-| [06-mlflow-experiment.png](screenshots/06-mlflow-experiment.png) | Experiment overview |
+| [06-mlflow-experiment.png](screenshots/06-mlflow-experiment.png) | Model registry: `TelcoChurnModel` v3 alias `champion` |
 
 ## 2. Prompt engineering (30 points)
 
